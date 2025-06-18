@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+qdrant-client
+PyMuPDF
+sentence-transformers
+pyttsx3
